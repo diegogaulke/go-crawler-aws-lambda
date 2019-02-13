@@ -22,5 +22,5 @@
 
 # End of https://www.gitignore.io/api/go
 
-go-crawler-aws-lambda
-deployment.zip
+./go-crawler-aws-lambda
+./deployment.zip
